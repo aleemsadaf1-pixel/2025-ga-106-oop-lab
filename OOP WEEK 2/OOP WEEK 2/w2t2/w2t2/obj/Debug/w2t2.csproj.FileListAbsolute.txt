@@ -1,0 +1,7 @@
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 2\w2t2\w2t2\bin\Debug\w2t2.exe.config
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 2\w2t2\w2t2\bin\Debug\w2t2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 2\w2t2\w2t2\bin\Debug\w2t2.pdb
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 2\w2t2\w2t2\obj\Debug\w2t2.csproj.AssemblyReference.cache
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 2\w2t2\w2t2\obj\Debug\w2t2.csproj.CoreCompileInputs.cache
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 2\w2t2\w2t2\obj\Debug\w2t2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 2\w2t2\w2t2\obj\Debug\w2t2.pdb
