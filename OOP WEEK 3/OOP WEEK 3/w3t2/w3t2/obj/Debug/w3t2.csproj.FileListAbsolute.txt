@@ -1,0 +1,7 @@
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 3\w3t2\w3t2\bin\Debug\w3t2.exe.config
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 3\w3t2\w3t2\bin\Debug\w3t2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 3\w3t2\w3t2\bin\Debug\w3t2.pdb
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 3\w3t2\w3t2\obj\Debug\w3t2.csproj.AssemblyReference.cache
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 3\w3t2\w3t2\obj\Debug\w3t2.csproj.CoreCompileInputs.cache
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 3\w3t2\w3t2\obj\Debug\w3t2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP WEEK 3\w3t2\w3t2\obj\Debug\w3t2.pdb
