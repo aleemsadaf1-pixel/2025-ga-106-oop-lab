@@ -1,0 +1,5 @@
+C:\Users\Imran\OneDrive\Desktop\oop week 10\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\Imran\OneDrive\Desktop\oop week 10\task3\obj\Debug\task3.Form1.resources
+C:\Users\Imran\OneDrive\Desktop\oop week 10\task3\obj\Debug\task3.Properties.Resources.resources
+C:\Users\Imran\OneDrive\Desktop\oop week 10\task3\obj\Debug\task3.csproj.GenerateResource.cache
+C:\Users\Imran\OneDrive\Desktop\oop week 10\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
